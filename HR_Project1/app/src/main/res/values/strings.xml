@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HR_Project</string>
+    <string name="error">UnauthorizedUser</string>
+    <string name="response_error">Response_Error</string>
+    <string name="fail">Fail</string>
+    <string name="scanned_in">Scanned:IN</string>
+    <string name="scanned_out">Scanned:OUT</string>
+    <string name="empty">UserName and Password Empty</string>
+    <string name="empty_password">Please Enter Password </string>
+    <string name="empty_Repassword">Please Enter Password Again </string>
+    <string name="empty_name">Please Enter Name </string>
+    <string name="empty_email">Please Enter Email </string>
+    <string name="registration">User Registration Successful</string>
+    <string name="password">Password Not matching</string>
+    <string name="field">Fields cannot be empty</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="send">Data Successfully Send</string>
+    <string name="update">User Update Successful </string>
+</resources>
